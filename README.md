@@ -1,4 +1,4 @@
-![goku](https://github.com/user-attachments/assets/7afb200f-5846-4fa1-a702-92b543b7cfd9)
+![coder](https://github.com/user-attachments/assets/a34612b4-e519-44a4-8acc-623db708fc89)
 
 👋 Hi there, I'm Hồ Thanh Hậu! 
 
