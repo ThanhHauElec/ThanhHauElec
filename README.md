@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hi there, I'm Hồ Thanh Hậu!  
 
-<!--
-**ThanhHauElec/ThanhHauElec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Embedded Engineer | PCB Designer | Firmware Developer  
 
-Here are some ideas to get you started:
+💡 Passionate about embedded systems, PCB design, and firmware development.  
+🔧 Experienced with KiCad, Zephyr RTOS, Renesas MCUs, and IoT solutions.  
+🌱 Constantly learning and exploring new technologies in embedded systems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--------------------------------------------------------------------------------------------------------------------------------
+
+🔧 Tech Stack & Skills  
+🔹 **Hardware Design**: KiCad, Altium, PCB Layout, Schematic Design  
+🔹 **Embedded Development**: C/C++, Zephyr RTOS, FreeRTOS, STM32, Renesas MCUs  
+🔹 **Firmware & IoT**: BLE, Wi-Fi, MQTT, CAN, Modbus  
+🔹 **Tools & Debugging**: Logic Analyzer, JTAG/SWD, Oscilloscope  
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+📫 Connect with Me  
+🔗 **GitHub**: [ThanhHauElec](https://github.com/ThanhHauElec)  
+📧 **Email**: hothanhau.work@gmail.com  
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+⭐ **Fun Fact**: I enjoy reverse-engineering electronics and optimizing firmware for real-world applications.  
