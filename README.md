@@ -1,26 +1,12 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/3fb74075-67f6-4eb1-9ef5-2ff88585ee85" width="150" style="margin-right: 20px;">
-  <div>
-    <h3>💫 About Me:</h3>
-    <p>👋 Hi there, I'm Hồ Thanh Hậu!</p>
-    <p>🚀 Embedded Software Engineer | Hardware Designer | PCB Designer | Firmware Developer</p>
-    <p>💡 Passionate about embedded systems, PCB design, and firmware development.</p>
-    <p>🔧 Experienced with KiCad, Zephyr RTOS, Renesas MCUs, and IoT solutions.</p>
-    <p>🌱 Constantly learning and exploring new technologies in embedded systems.</p>
-    <h3>🔧 Tech Stack & Skills</h3>
-    <ul>
-      <li>🔹 Hardware Design: KiCad, Altium, PCB Layout, Schematic Design</li>
-      <li>🔹 Embedded Development: C/C++, Zephyr RTOS, FreeRTOS, STM32, Renesas MCUs</li>
-      <li>🔹 Firmware & IoT: BLE, Wi-Fi, MQTT, CAN, Modbus</li>
-      <li>🔹 Tools & Debugging: Logic Analyzer, JTAG/SWD, Oscilloscope</li>
-    </ul>
-  </div>
-</div>
+![DRAGONBALL Z FAN ep_1 - Phu Twenty](https://github.com/user-attachments/assets/3fb74075-67f6-4eb1-9ef5-2ff88585ee85)
 
-🌐 Socials:
+# 💫 About Me:
+👋 Hi there, I'm Hồ Thanh Hậu!<br><br>🚀 Embedded Software Engineer| Hardware Designer  | PCB Designer | Firmware Developer<br><br>💡 Passionate about embedded systems, PCB design, and firmware development.<br>🔧 Experienced with KiCad, Zephyr RTOS, Renesas MCUs, and IoT solutions.<br>🌱 Constantly learning and exploring new technologies in embedded systems.<br><br>🔧 Tech Stack & Skills<br>🔹 Hardware Design: KiCad, Altium, PCB Layout, Schematic Design<br>🔹 Embedded Development: C/C++, Zephyr RTOS, FreeRTOS, STM32, Renesas MCUs<br>🔹 Firmware & IoT: BLE, Wi-Fi, MQTT, CAN, Modbus<br>🔹 Tools & Debugging: Logic Analyzer, JTAG/SWD, Oscilloscope<br><br>
+
+## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hau.hothanh.75491/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hothanhhau.work@gmail.com) 
 
-💻 Tech Stack:
+# 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -41,15 +27,15 @@
 ![KiCad](https://img.shields.io/badge/KiCad-%233870C6.svg?style=for-the-badge&logo=kicad&logoColor=white) 
 ![JLCPCB](https://img.shields.io/badge/JLCPCB-%230081CB.svg?style=for-the-badge&logo=jlcpcb&logoColor=white) 
 
-📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThanhHauElec&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=ThanhHauElec&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhHauElec&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ThanhHauElec&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
