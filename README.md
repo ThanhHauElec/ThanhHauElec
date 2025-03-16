@@ -1,3 +1,6 @@
+
+![Chao mung den voi trang cua toi](https://github.com/user-attachments/assets/93b10c72-1c3b-420d-a617-8e36cdcf6fb3)
+
 👋 Hi there, I'm Hồ Thanh Hậu!  
 
 🚀 Embedded Engineer | PCB Designer | Firmware Developer  
