@@ -1,5 +1,5 @@
 
-![Cool GIF](https://i.pinimg.com/originals/2f/c9/c0/2fc9c00bc27fa1389682e31bd405a80c.gif)
+![Image](https://github.com/user-attachments/assets/4a5735d4-c61f-4319-9e40-7eed98cab8d4)
 
 👋 Hi there, I'm Hồ Thanh Hậu! 
 
