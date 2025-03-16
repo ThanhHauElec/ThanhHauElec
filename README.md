@@ -1,5 +1,4 @@
 
-![Image](https://github.com/user-attachments/assets/4a5735d4-c61f-4319-9e40-7eed98cab8d4)
 
 👋 Hi there, I'm Hồ Thanh Hậu! 
 
