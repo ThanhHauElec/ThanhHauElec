@@ -1,4 +1,5 @@
 
+![War-Machine](https://github.com/user-attachments/assets/6c070632-8e74-47ac-8036-048147e28d97)
 
 👋 Hi there, I'm Hồ Thanh Hậu! 
 
