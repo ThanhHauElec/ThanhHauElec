@@ -1,5 +1,4 @@
-
-![War-Machine](https://github.com/user-attachments/assets/6c070632-8e74-47ac-8036-048147e28d97)
+![DRAGONBALL Z FAN ep_1 - Phu Twenty](https://github.com/user-attachments/assets/3fb74075-67f6-4eb1-9ef5-2ff88585ee85)
 
 # 💫 About Me:
 👋 Hi there, I'm Hồ Thanh Hậu!<br><br>🚀 Embedded Engineer | PCB Designer | Firmware Developer<br><br>💡 Passionate about embedded systems, PCB design, and firmware development.<br>🔧 Experienced with KiCad, Zephyr RTOS, Renesas MCUs, and IoT solutions.<br>🌱 Constantly learning and exploring new technologies in embedded systems.<br><br>🔧 Tech Stack & Skills<br>🔹 Hardware Design: KiCad, Altium, PCB Layout, Schematic Design<br>🔹 Embedded Development: C/C++, Zephyr RTOS, FreeRTOS, STM32, Renesas MCUs<br>🔹 Firmware & IoT: BLE, Wi-Fi, MQTT, CAN, Modbus<br>🔹 Tools & Debugging: Logic Analyzer, JTAG/SWD, Oscilloscope<br><br>📫 Connect with Me<br>🔗 GitHub: ThanhHauElec<br>📧 Email: hothanhau.work@gmail.com<br><br>⭐ Fun Fact: I enjoy reverse-engineering electronics and optimizing firmware for real-world applications.
