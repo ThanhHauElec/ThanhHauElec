@@ -1,81 +1,37 @@
-<h2 align="left">👋 Hi there, I'm Hồ Thanh Hậu!<br><br>🚀 Embedded Software Engineer| Hardware Designer | PCB Designer | Firmware Developer<br><br>💡 Passionate about embedded systems, PCB design, and firmware development.<br>🔧 Experienced with KiCad, Zephyr RTOS, Renesas MCUs, and IoT solutions.<br>🌱 Constantly learning and exploring new technologies in embedded systems.<br><br>🔧 Tech Stack & Skills<br>🔹 Hardware Design: KiCad, Altium, PCB Layout, Schematic Design<br>🔹 Embedded Development: C/C++, Zephyr RTOS, FreeRTOS, STM32, Renesas MCUs<br>🔹 Firmware & IoT: BLE, Wi-Fi, MQTT, CAN, Modbus<br>🔹 Tools & Debugging: Logic Analyzer, JTAG/SWD, Oscilloscope</h2>
+![DRAGONBALL Z FAN ep_1 - Phu Twenty](https://github.com/user-attachments/assets/3fb74075-67f6-4eb1-9ef5-2ff88585ee85)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ThanhHauElec/ThanhHauElec/master/profile-summary-card-output/vue/0-profile-details.svg">
-  </br>
-  <img src="https://raw.githubusercontent.com/ThanhHauElec/ThanhHauElec/master/profile-summary-card-output/vue/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/ThanhHauElec/ThanhHauElec/master/profile-summary-card-output/vue/2-most-commit-language.svg">
-  </br>
-  <img src="https://raw.githubusercontent.com/ThanhHauElec/ThanhHauElec/master/profile-summary-card-output/vue/3-stats.svg">
-  <img src="https://raw.githubusercontent.com/ThanhHauElec/ThanhHauElec/master/profile-summary-card-output/vue/4-productive-time.svg">
-  </br>
-</p>
+# 💫 About Me:
+👋 Hi there, I'm Hồ Thanh Hậu!<br><br>🚀 Embedded Software Engineer| Hardware Designer  | PCB Designer | Firmware Developer<br><br>💡 Passionate about embedded systems, PCB design, and firmware development.<br>🔧 Experienced with KiCad, Zephyr RTOS, Renesas MCUs, and IoT solutions.<br>🌱 Constantly learning and exploring new technologies in embedded systems.<br><br>🔧 Tech Stack & Skills<br>🔹 Hardware Design: KiCad, Altium, PCB Layout, Schematic Design<br>🔹 Embedded Development: C/C++, Zephyr RTOS, FreeRTOS, STM32, Renesas MCUs<br>🔹 Firmware & IoT: BLE, Wi-Fi, MQTT, CAN, Modbus<br>🔹 Tools & Debugging: Logic Analyzer, JTAG/SWD, Oscilloscope<br><br>
 
-###
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hau.hothanh.75491/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hothanhhau.work@gmail.com) 
 
-<img align="right" height="150" src="https://github.com/user-attachments/assets/3fb74075-67f6-4eb1-9ef5-2ff88585ee85"  />
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) 
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
+![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-%230071C5.svg?style=for-the-badge&logo=altiumdesigner&logoColor=white) 
+![KiCad](https://img.shields.io/badge/KiCad-%233870C6.svg?style=for-the-badge&logo=kicad&logoColor=white) 
+![JLCPCB](https://img.shields.io/badge/JLCPCB-%230081CB.svg?style=for-the-badge&logo=jlcpcb&logoColor=white) 
 
-###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ThanhHauElec&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&card_width=1000)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ThanhHauElec&theme=highcontrast&hide_border=false&card_width=1000)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhHauElec&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&card_width=1000)
+---
+[![](https://visitcount.itsvg.in/api?id=ThanhHauElec&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="30" alt="embeddedc logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
