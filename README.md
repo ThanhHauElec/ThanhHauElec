@@ -48,7 +48,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/altiumdesigner/9F1D20" height="30" alt="altium logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/kicad/5277C3" height="30" alt="kicad logo" />
+  <img src="https://github.com/kicad/.github/blob/main/images/kicad_logo_small.png" height="30" alt="kicad logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/confluence/172B4D" height="30" alt="confluence logo"  />
   <img width="12" />
