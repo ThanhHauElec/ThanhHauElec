@@ -52,6 +52,23 @@
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="30" alt="jira logo"  />
 </div>
 
+# 🔌 MCU Platforms:
+<div align="center">
+  <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" height="30" alt="STM32 logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ti/EA3323" height="30" alt="Texas Instruments logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/infineon/0098DB" height="30" alt="Infineon logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/renesas/007CC3" height="30" alt="Renesas logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/espressif/ED1C24" height="30" alt="ESP32 logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Seiko_Epson_logo.svg" height="30" alt="Epson logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Microchip-logo.svg/512px-Microchip-logo.svg.png" height="30" alt="Microchip PIC logo" />
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ThanhHauElec&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&card_width=1000)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThanhHauElec&theme=highcontrast&hide_border=false&card_width=1000)<br/>
