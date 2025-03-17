@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-👋 Hi there, I'm Hồ Thanh Hậu!<br><br>🚀 Embedded Software Engineer| Hardware Designer  | PCB Designer | Firmware Developer<br><br>💡 Passionate about embedded systems, PCB design, and firmware development.<br>🔧 Experienced with KiCad, Zephyr RTOS, Renesas MCUs, and IoT solutions.<br>🌱 Constantly learning and exploring new technologies in embedded systems.<br><br>🔧 Tech Stack & Skills<br>🔹 Hardware Design: KiCad, Altium, PCB Layout, Schematic Design<br>🔹 Embedded Development: C/C++, Zephyr RTOS, FreeRTOS, STM32, Renesas MCUs<br>🔹 Firmware & IoT: BLE, Wi-Fi, MQTT, CAN, Modbus<br>🔹 Tools & Debugging: Logic Analyzer, JTAG/SWD, Oscilloscope<br><br>
+👋 Hi there, I'm Hồ Thanh Hậu!<br><br>🚀 Embedded Software Engineer| Hardware Designer  | PCB Designer | Firmware Developer<br><br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hau.hothanh.75491/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hothanhhau.work@gmail.com) 
