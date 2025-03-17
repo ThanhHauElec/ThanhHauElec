@@ -1,5 +1,16 @@
 <h2 align="left">👋 Hi there, I'm Hồ Thanh Hậu!<br><br>🚀 Embedded Software Engineer| Hardware Designer | PCB Designer | Firmware Developer<br><br>💡 Passionate about embedded systems, PCB design, and firmware development.<br>🔧 Experienced with KiCad, Zephyr RTOS, Renesas MCUs, and IoT solutions.<br>🌱 Constantly learning and exploring new technologies in embedded systems.<br><br>🔧 Tech Stack & Skills<br>🔹 Hardware Design: KiCad, Altium, PCB Layout, Schematic Design<br>🔹 Embedded Development: C/C++, Zephyr RTOS, FreeRTOS, STM32, Renesas MCUs<br>🔹 Firmware & IoT: BLE, Wi-Fi, MQTT, CAN, Modbus<br>🔹 Tools & Debugging: Logic Analyzer, JTAG/SWD, Oscilloscope</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ThanhHauElec/ThanhHauElec/master/profile-summary-card-output/vue/0-profile-details.svg">
+  </br>
+  <img src="https://raw.githubusercontent.com/ThanhHauElec/ThanhHauElec/master/profile-summary-card-output/vue/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/ThanhHauElec/ThanhHauElec/master/profile-summary-card-output/vue/2-most-commit-language.svg">
+  </br>
+  <img src="https://raw.githubusercontent.com/ThanhHauElec/ThanhHauElec/master/profile-summary-card-output/vue/3-stats.svg">
+  <img src="https://raw.githubusercontent.com/ThanhHauElec/ThanhHauElec/master/profile-summary-card-output/vue/4-productive-time.svg">
+  </br>
+</p>
+
 ###
 
 <img align="right" height="150" src="https://github.com/user-attachments/assets/3fb74075-67f6-4eb1-9ef5-2ff88585ee85"  />
