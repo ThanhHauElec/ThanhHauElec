@@ -56,11 +56,11 @@
 <div align="center">
   <img src="https://cdn.simpleicons.org/stmicroelectronics/03234B" height="30" alt="STM32 logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/ti/EA3323" height="30" alt="Texas Instruments logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TexasInstruments-Logo.svg/744px-TexasInstruments-Logo.svg.png" height="30" alt="Texas Instruments logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/infineon/0098DB" height="30" alt="Infineon logo" />
+  <img src="https://images.seeklogo.com/logo-png/7/1/infineon-logo-png_seeklogo-71466.png" height="30" alt="Infineon logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/renesas/007CC3" height="30" alt="Renesas logo" />
+  <img src="https://www.icdrex.com/wp-content/uploads/2023/04/Renesas.png" height="30" alt="Renesas logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/espressif/ED1C24" height="30" alt="ESP32 logo" />
   <img width="12" />
