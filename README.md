@@ -31,10 +31,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ThanhHauElec&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&card_width=1000)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ThanhHauElec&theme=highcontrast&hide_border=false&card_width=1000)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhHauElec&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&card_width=1000)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThanhHauElec&limit=5&theme=dark&combine_all_yearly_contributions=true&width=1000)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ThanhHauElec&icon=0&color=0)](https://visitcount.itsvg.in)
 
