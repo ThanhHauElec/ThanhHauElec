@@ -1,6 +1,6 @@
-<div align="center">
-  ![DRAGONBALL Z FAN ep_1 - Phu Twenty](https://github.com/user-attachments/assets/3fb74075-67f6-4eb1-9ef5-2ff88585ee85)
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3fb74075-67f6-4eb1-9ef5-2ff88585ee85" width="300">
+</p>
 
 # 💫 About Me:
 👋 Hi there, I'm Hồ Thanh Hậu!<br><br>🚀 Embedded Software Engineer| Hardware Designer  | PCB Designer | Firmware Developer<br><br>💡 Passionate about embedded systems, PCB design, and firmware development.<br>🔧 Experienced with KiCad, Zephyr RTOS, Renesas MCUs, and IoT solutions.<br>🌱 Constantly learning and exploring new technologies in embedded systems.<br><br>🔧 Tech Stack & Skills<br>🔹 Hardware Design: KiCad, Altium, PCB Layout, Schematic Design<br>🔹 Embedded Development: C/C++, Zephyr RTOS, FreeRTOS, STM32, Renesas MCUs<br>🔹 Firmware & IoT: BLE, Wi-Fi, MQTT, CAN, Modbus<br>🔹 Tools & Debugging: Logic Analyzer, JTAG/SWD, Oscilloscope<br><br>
