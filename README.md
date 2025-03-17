@@ -28,8 +28,8 @@
 ![JLCPCB](https://img.shields.io/badge/JLCPCB-%230081CB.svg?style=for-the-badge&logo=jlcpcb&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThanhHauElec&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&card_width=500)
-![](https://nirzak-streak-stats.vercel.app/?user=ThanhHauElec&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ThanhHauElec&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&card_width=500)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ThanhHauElec&theme=highcontrast&hide_border=false&card_width=500)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhHauElec&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&card_width=500)
 
 ### ✍️ Random Dev Quote
