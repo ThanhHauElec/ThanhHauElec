@@ -58,7 +58,7 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TexasInstruments-Logo.svg/744px-TexasInstruments-Logo.svg.png" height="30" alt="Texas Instruments logo" />
   <img width="12" />
-  <img src="https://images.seeklogo.com/logo-png/7/1/infineon-logo-png_seeklogo-71466.png" height="50" alt="Infineon logo" />
+  <img src="https://manuals.plus/wp-content/uploads/2022/12/infineon-logo.png" height="50" alt="Infineon logo" />
   <img width="12" />
   <img src="https://www.icdrex.com/wp-content/uploads/2023/04/Renesas.png" height="50" alt="Renesas logo" />
   <img width="12" />
