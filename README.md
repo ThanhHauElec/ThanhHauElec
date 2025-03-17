@@ -64,9 +64,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/espressif/ED1C24" height="30" alt="ESP32 logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/1/12/Seiko_Epson_logo.svg" height="30" alt="Epson logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Microchip-logo.svg/512px-Microchip-logo.svg.png" height="30" alt="Microchip PIC logo" />
+  <img src="https://companieslogo.com/img/orig/MCHP-167156da.png?t=1720244492" height="30" alt="Microchip PIC logo" />
 </div>
 
 # 📊 GitHub Stats:
