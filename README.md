@@ -58,9 +58,9 @@
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TexasInstruments-Logo.svg/744px-TexasInstruments-Logo.svg.png" height="30" alt="Texas Instruments logo" />
   <img width="12" />
-  <img src="https://manuals.plus/wp-content/uploads/2022/12/infineon-logo.png" height="50" alt="Infineon logo" />
+  <img src="https://manuals.plus/wp-content/uploads/2022/12/infineon-logo.png" height="30" alt="Infineon logo" />
   <img width="12" />
-  <img src="https://www.icdrex.com/wp-content/uploads/2023/04/Renesas.png" height="50" alt="Renesas logo" />
+  <img src="https://www.powerelectronictips.com/wp-content/uploads/2024/01/renesas-logo.png" height="30" alt="Renesas logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/espressif/ED1C24" height="30" alt="ESP32 logo" />
   <img width="12" />
