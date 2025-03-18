@@ -25,8 +25,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cmake" height="30" alt="cmake logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=eclipse" height="30" alt="eclipseide logo"  />
