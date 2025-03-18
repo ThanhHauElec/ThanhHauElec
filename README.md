@@ -17,6 +17,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.sanity.io/images/0hdzqj39/production/3c6747b52143a9a0725c0901be3a9101f5d42cbb-288x288.png" height="30" alt="altium logo" />
+  <img width="12" />
+  <img src="https://github.com/kicad/.github/blob/main/images/kicad_logo_small.png" height="30" alt="kicad logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
@@ -40,10 +44,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.sanity.io/images/0hdzqj39/production/3c6747b52143a9a0725c0901be3a9101f5d42cbb-288x288.png" height="30" alt="altium logo" />
-  <img width="12" />
-  <img src="https://github.com/kicad/.github/blob/main/images/kicad_logo_small.png" height="30" alt="kicad logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/confluence/172B4D" height="30" alt="confluence logo"  />
   <img width="12" />
