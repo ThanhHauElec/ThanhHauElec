@@ -6,7 +6,6 @@
 <p align="center">
   👋 Hi there, I'm Hồ Thanh Hậu!<br><br>🚀 Embedded Software Engineer| Hardware Designer  | PCB Designer | Firmware Developer<br><br>
   📞 0338937472
-  <img src="https://raw.githubusercontent.com/ThanhHauElec/ThanhHauElec/main/call-me-for-job.svg" width="300">
 </p>
 
 # 💻 Tech Stack:
