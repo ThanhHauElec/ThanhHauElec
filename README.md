@@ -3,8 +3,10 @@
 </p>
 
 # 💫 About Me:
-👋 Hi there, I'm Hồ Thanh Hậu!<br><br>🚀 Embedded Software Engineer| Hardware Designer  | PCB Designer | Firmware Developer<br><br>
-
+<div align="center">
+  👋 Hi there, I'm Hồ Thanh Hậu!<br><br>🚀 Embedded Software Engineer| Hardware Designer  | PCB Designer | Firmware Developer<br><br>
+  📞 0338937472
+<div>
 # 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
