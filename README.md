@@ -4,8 +4,18 @@
 
 # 💫 About Me:
 <p align="center">
-  👋 Hi there, I'm Hồ Thanh Hậu!<br><br>🚀 Embedded Software Engineer| Hardware Designer  | PCB Designer | Firmware Developer<br><br>
-  📞 0338937472
+  👋 Hi there, I'm Hồ Thanh Hậu!
+  🚀 Embedded Software Engineer | Hardware Designer | PCB Designer | Firmware Developer
+  
+  🎯 Looking for outsourcing opportunities in:
+  
+  ✅ PCB Design (KiCad, Altium, high-speed, multi-layer)
+  ✅ Embedded System Development (C/C++, Zephyr RTOS, FreeRTOS, STM32, Renesas, ESP32, PIC, Infineon)
+  ✅ Product Development (IoT, BLE, Wi-Fi, Modbus, MQTT, CAN)
+  ✅ Firmware Development (Bare-metal, RTOS-based, optimized low-power solutions)
+  📩 Contact me for collaboration:
+  📞 Phone: 0338937472
+  ✉️ Email: hothanhhau.work@gmail.com
 </p>
 
 # 💻 Tech Stack:
